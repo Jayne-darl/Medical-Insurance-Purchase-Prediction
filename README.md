@@ -1,4 +1,4 @@
-# dsn_machine_learning_practise
+# Medical Insurance Purchase Prediction(DSN Practise)
 
 A simple classification problem to predict if a user will purchase a  medical insurance or not.
 
